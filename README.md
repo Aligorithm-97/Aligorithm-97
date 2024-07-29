@@ -22,5 +22,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aligorithm-97&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aligorithm-97&theme=2077" height="180em" />
 </div>
-
+<div align="center">
 <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aligorithm-97&" alt="Aligorithm-97" /></p>
+</div>
