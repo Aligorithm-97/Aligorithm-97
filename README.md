@@ -19,7 +19,8 @@
 <img style="margin: 25px;" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aligorithm-97&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aligorithm-97&theme=dark" height="180em" />
 </div>
-<div> 
+<br/>
+<div align="center"> 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aligorithm-97&theme=dark" height="180em" />
 </div>
 <div align="center">
