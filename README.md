@@ -21,7 +21,8 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aligorithm-97&theme=2077" height="180em" />
 </div>
 <div align="center">
-<p style="text-align: center;  margin-top: "10px";"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aligorithm-97&theme=dark&hide_border=true" alt="Aligorithm-97" /></p>
+<br/>
+<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aligorithm-97&theme=dark&hide_border=true" alt="Aligorithm-97" /></p>
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/Aligorithm-97/Aligorithm-97/output/github-contribution-grid-snake-dark.svg)
