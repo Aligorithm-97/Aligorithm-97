@@ -16,7 +16,7 @@
 
 <div align="center">
 <a href="https://github.com/Aligorithm-97">
-<img style="margin: "5px";" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aligorithm-97&theme=dark" height="180em" />
+<img style="margin: 5px;" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aligorithm-97&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aligorithm-97&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aligorithm-97&theme=dark" height="180em" />
 </div>
