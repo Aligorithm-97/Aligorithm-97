@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Temurtaş</h1>
+<h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">Information Systems Engineer & Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aligorithm-97&label=Profile%20views&color=0e75b6&style=flat" alt="ali" /> </p>
