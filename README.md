@@ -27,5 +27,6 @@
 <br/>
 <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aligorithm-97&theme=dark&hide_border=true" alt="Aligorithm-97" /></p>
 </div>
+  
 ![Snake animation](https://raw.githubusercontent.com/Aligorithm-97/Aligorithm-97/output/github-contribution-grid-snake-dark.svg)
 
