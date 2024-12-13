@@ -17,7 +17,7 @@
 ![Snake animation](https://raw.githubusercontent.com/Aligorithm-97/Aligorithm-97/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
-<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aligorithm-97&theme=dark&hide_border=true&card_width=200&card_height=100" alt="Aligorithm-97" /></p>
+<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aligorithm-97&theme=dark&hide_border=true" alt="Aligorithm-97" /></p>
 </div>
 
 <div align="center">
