@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 
-<div align="center">
+<div align="end">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Condiment&pause=1000&color=999999&width=435&lines=Information+Systems+Engineer;Full+Stack+Developer" alt="Typing SVG" /></a>
 </div>
 
