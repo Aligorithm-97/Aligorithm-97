@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Condiment&size=30&pause=1000&color=999999&width=800&height=100&lines=Information+Systems+Engineer;Full+Stack+Developer" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Condiment&size=30&pause=1000&color=999999&center=true&width=1000&height=100&lines=Information+Systems+Engineer;Full+Stack+Developer" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aligorithm-97&label=Profile%20views&color=0e75b6&style=flat" alt="ali" /> </p>
 
