@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aligorithm-97&label=Profile%20views&color=0e75b6&style=flat" alt="ali" /> </p>
 
-- 🔭 I’m currently working on **full-stack web development**
+- 🔭 I’m currently working on **full stack web development**
 - 👨‍💻 All of my projects are available at [https://aligorithm.dev/projects](https://aligorithm.dev/projects)
 - 📝 My personal website [https://aligorithm.dev](https://aligorithm.dev)
 - 📫 How to reach me **atemurtas97@gmail.com** | [https://aligorithm.dev/contact](https://aligorithm.dev/contact)
